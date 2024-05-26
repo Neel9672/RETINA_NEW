@@ -179,7 +179,7 @@
                                 android:layout_marginTop="4dp"
                                 android:fontFamily="@font/inter700"
                                 android:text="HIGH"
-                                android:textColor="#62C724"
+                                android:textColor="#F54241"
                                 android:textSize="12sp"
                                 app:layout_constraintStart_toStartOf="@+id/card2_competition"
                                 app:layout_constraintTop_toBottomOf="@+id/card2_competition" />
